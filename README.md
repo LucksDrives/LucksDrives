@@ -1,4 +1,4 @@
-# <img src="[https://uploaddeimagens.com.br/imagens/uSvG5jQ](https://uploaddeimagens.com.br/images/003/910/286/original/Lucas_Asquidamini_%2815%29.png?1655821827)"></img>
+# <img src="https://uploaddeimagens.com.br/imagens/uSvG5jQ](https://uploaddeimagens.com.br/images/003/910/286/original/Lucas_Asquidamini_%2815%29.png?1655821827"></img>
 <h1 align="center">Hi 👋, I'm Lucas Asquidamini</h1>
 <h3 align="center">A Junior Programmer, Looking to Evolve Professionally.</h3>
 
