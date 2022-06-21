@@ -1,9 +1,6 @@
 <img src="https://live.staticflickr.com/65535/52162913418_388100b7ba_k.jpg" style="width: 100%"></img>
 <h1 align="center">Hi 👋, I'm Lucas Asquidamini</h1>
 <h3 align="center">A Junior Programmer, Looking to Evolve Professionally.</h3>
-<p align="center"><img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" style="width: 30%; border-radius: 10px; max-width: 100%;"></img></p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
