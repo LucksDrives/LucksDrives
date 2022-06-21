@@ -9,7 +9,7 @@
 ﾠI keep constantly evolving, to increasingly become an excellent professional who meets the high expectations that the market demands, since we live in a VUCA world (volatile, uncertain, complex and ambiguous) and we must increasingly know how to deal with the same.</p>
 
 
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" style="width: 30%; border-radius: 10px; float: right"></img>
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" style="width: 30%; border-radius: 10px; float: right; max-width: 100%;"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
