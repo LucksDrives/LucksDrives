@@ -8,8 +8,8 @@
 <a href="https://www.youtube.com/channel/UC-OofTDujBbk4VvEfNRBaGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-ooftdujbbk4vvefnrbaga" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">My Statistics:</h3>
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" style="float: right; margin-top: 10%"></img>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucksdrives&show_icons=true&locale=en&layout=compact" alt="lucksdrives" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucksdrives&show_icons=true&locale=en" alt="lucksdrives" /></p>
