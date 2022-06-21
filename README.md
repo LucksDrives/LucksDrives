@@ -1,4 +1,4 @@
-<img src="https://live.staticflickr.com/65535/52161880377_55362843b7_h.jpg" style="width: 100%"></img>
+<img src="https://live.staticflickr.com/65535/52162913418_388100b7ba_k.jpg" style="width: 100%"></img>
 <h1 align="center">Hi 👋, I'm Lucas Asquidamini</h1>
 <h3 align="center">A Junior Programmer, Looking to Evolve Professionally.</h3>
 
