@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Asquidamini</h1>
 <h3 align="center">A Junior Programmer, Looking to Evolve Professionally.</h3>
 
-<p align="justify">  
+<p align="justify" width="70%">  
   I am a motivated professional, looking forward to new experiences, always looking for growth and development to reinforce competence, dedicated to delivering excellence in results, seeking to add and add to the company. I have experience in teamwork, administration, planning, programming and development of websites and software.
   I work from a young age, I learn easily, I am very flexible to new experiences, I believe that all, in a way, add to the professional. Focused on having professional growth, I attended integrated education for commercial and business learning purposes related to logistics, administration, finance, teamwork, leadership and the like.
   In addition to studying commercial and business management, I was an administrative assistant and took several courses focused on computing, gaining experience and evolving professionally and mentally. I have always believed that life experiences are worth more than professional certificates, many things I learned on my own, I consider research and study the pillars of a good student who always craves knowledge.
