@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Asquidamini</h1>
 <h3 align="center">A Junior Programmer, Looking to Evolve Professionally.</h3>
 
+<p align="justify">
+  I am a motivated professional, looking forward to new experiences, always looking for growth and development to reinforce competence, dedicated to delivering excellence in results, looking to add and add to the company. I have experience in teamwork, administration, planning, programming and development of websites and software.
+ﾠI have been working since I was young, I learn easily, I am very flexible to new experiences, I believe that all, in a way, add to the professional. Focused on having professional growth, I attended integrated education for commercial and business learning purposes related to logistics, administration, finance, teamwork, leadership and the like.
+</p>
+
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **lucas.asquidamini@hotmail.com**
