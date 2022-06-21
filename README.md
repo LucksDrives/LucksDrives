@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Asquidamini</h1>
 <h3 align="center">A Junior Programmer, Looking to Evolve Professionally.</h3>
 
-- 🌱 I’m currently learning **Premium Wifi - The Fiber Experience on Wifi by Hotmart - Matheus Marmentini, 8 hours - January 15, 2022**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **lucas.asquidamini@hotmail.com**
+
+- 📄 Know about my experiences https://drive.google.com/file/d/1JynK7eyMVthGsNmY2ML08JhUeZRiQudu/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
