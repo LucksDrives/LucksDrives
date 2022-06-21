@@ -6,9 +6,9 @@
   I am a motivated professional, looking forward to new experiences, always looking for growth and development to reinforce competence, dedicated to delivering excellence in results, seeking to add and add to the company. I have experience in teamwork, administration, planning, programming and development of websites and software.
   I work from a young age, I learn easily, I am very flexible to new experiences, I believe that all, in a way, add to the professional. Focused on having professional growth, I attended integrated education for commercial and business learning purposes related to logistics, administration, finance, teamwork, leadership and the like.
   In addition to studying commercial and business management, I was an administrative assistant and took several courses focused on computing, gaining experience and evolving professionally and mentally. I have always believed that life experiences are worth more than professional certificates, many things I learned on my own, I consider research and study the pillars of a good student who always craves knowledge.
-  I keep constantly evolving, to increasingly become an excellent professional who meets the high expectations that the market demands, since we live in a VUCA world (volatile, uncertain, complex and ambiguous) and we must increasingly know how to deal with the same.
+  I keep constantly evolving, to increasingly become an excellent professional who meets the high expectations that the market demands, since we live in a VUCA world (volatile, uncertain, complex and ambiguous) and we must increasingly know how to deal with the same.</p>
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" style="width: 30%; border-radius: 10px; max-width: 100%;"></img>
-</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
