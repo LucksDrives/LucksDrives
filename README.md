@@ -36,5 +36,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/lucas-asquidamini-7a4b141b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-asquidamini-7a4b141b1/" height="30" width="40" /></a>
 <a href="https://instagram.com/lucasasquidamini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasasquidamini" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc-ooftdujbbk4vvefnrbaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-ooftdujbbk4vvefnrbaga" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-OofTDujBbk4VvEfNRBaGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-ooftdujbbk4vvefnrbaga" height="30" width="40" /></a>
 </p> 
