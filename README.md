@@ -1,6 +1,6 @@
 <img src="https://live.staticflickr.com/65535/52162913418_388100b7ba_k.jpg" style="width: 100%"></img>
 <h1 align="center">Hi 👋, I'm Lucas Asquidamini</h1>
-<h3 align="center">A Junior Programmer, Looking to Evolve Professionally.</h3>
+<h3 align="center">A Web Developer Full Stack, Looking to Evolve Professionally.</h3>
 
 - 📝I have prior knowledge in **Software Engineering, Framework for Data Development, Programming with Design Patterns, Database, WEB Development, Object Oriented Programming, Computer Networks, Operating Systems, Data Structure, Algorithms and Programming, Human Computer Interface, Mathematics for Computing and Computer Organization and Architecture.**
 
