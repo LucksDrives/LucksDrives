@@ -2,6 +2,16 @@
 <h1 align="center">Hi 👋, I'm Lucas Asquidamini</h1>
 <h3 align="center">A Web Developer Full Stack, Looking to Evolve Professionally.</h3>
 
+- Entrepreneur and Full Stack Developer, specialized in technology and international business management. As founder and CEO of Asqui Imports - Cell Phones and IT and the Asqui International Program, he operates in a vibrant ecosystem of technology and innovation, offering complete solutions in e-commerce, specialized technical assistance and IT services.
+
+With over 7 years of experience in the market, 5 academic degrees, over 30 specialization courses, over 70 certified skills and over 10 licenses to operate in the market, my career combines business management with technological development, Full Stack Web programming, specialization in advanced maintenance of mobile devices, IT systems and implementation of digital solutions. Throughout my career, I have managed multidisciplinary teams, opened new business units and implemented strategies that contributed to the continuous growth of my companies.
+
+I believe that constant evolution is the key to standing out in today's competitive environment. I invest in continuous training, focusing on areas such as software development, data analysis, digital marketing and project management. My approach is focused on results, with a strategic vision that is one of innovation and operational efficiency, aligned with global business trends.
+
+As a professional fluent in four languages ​​(Portuguese, English, Spanish and Italian), and with international experience, I am qualified to work in different markets and connect companies and people effectively. My commitment is to offer solutions that add real value, whether in the development of customized projects or in business expansion.
+
+Always in continuous evolution as a professional in a relentless search for innovation and improvement, believing that knowledge is never static. A mindset focused on success, focusing on life experiences that complement certifications and confirming that the key to thriving in the VUCA (volatile, uncertain, complex and ambiguous) world is flexibility and resilience.**
+
 - 📝I have prior knowledge in **Software Engineering, Framework for Data Development, Programming with Design Patterns, Database, WEB Development, Object Oriented Programming, Computer Networks, Operating Systems, Data Structure, Algorithms and Programming, Human Computer Interface, Mathematics for Computing and Computer Organization and Architecture.**
 
 - 🌱 I’m currently learning **Flutter and Hibernate Framework From Java**.
