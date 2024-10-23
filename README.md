@@ -25,10 +25,10 @@
 <h1></h1>
 <h3 align="left">About Me:</h3>
 <p align="justify">
- I am a full-time professional and entrepreneur, always seeking growth and development to reinforce competence, dedicated to delivering excellent results, seeking to add and aggregate to my company. I have experience in teamwork, administration, planning, programming and website and software development.<p>
+I am a full-time professional and entrepreneur, always seeking growth and development to reinforce competence, dedicated to delivering excellent results, seeking to add and aggregate to my company. I have experience in teamwork, administration, planning, programming and website and software development.<p>
     
 <p align="justify">
-ﾠI have been working since I was young, I learn easily, I am very flexible to new experiences, I believe that all, in a way, add to the professional. Focused on having professional growth, I attended integrated education for commercial and business learning purposes related to logistics, administration, finance, teamwork, leadership and the like.
+I have been working since I was young, I learn easily, I am very flexible to new experiences, I believe that all, in a way, add to the professional. Focused on having professional growth, I attended integrated education for commercial and business learning purposes related to logistics, administration, finance, teamwork, leadership and the like.
 </p>
 
 <p align="center"><img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="30%"></img></p>
